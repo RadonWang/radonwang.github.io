@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://blog.sevenche.com
-author: Jim
+url: http://radonwang.gihub.io
+author: Radon
 pygments: true
 paginate: 24
